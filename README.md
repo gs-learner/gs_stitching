@@ -4,6 +4,15 @@
 
 
 
+## Dataset
+
+In our paper, we use:
+
+- synthetic dataset from [NSVF](https://dl.fbaipublicfiles.com/nsvf/dataset/Synthetic_NSVF.zip).
+- real-world dataset from [Mip-NeRF 360](https://jonbarron.info/mipnerf360/) and [BlendedMVS](https://github.com/YoYo000/BlendedMVS).
+
+
+
 ## Pipeline
 
 ![pipeline](assets/pipeline.png)
