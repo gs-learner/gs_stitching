@@ -2,7 +2,7 @@
 
 ## [Project page](https://ingra14m.github.io/gs_stitching_website) | [Paper](https://arxiv.org/abs/2408.15708)
 
-
+![teaser](assets/teaser.png)
 
 ## Dataset
 
