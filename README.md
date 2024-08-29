@@ -6,7 +6,7 @@
 
 ## Pipeline
 
-![pipeline](C:\Git_Project\gs_stitching\assets\pipeline.png)
+![pipeline](assets/pipeline.png)
 
 
 
